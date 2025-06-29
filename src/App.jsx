@@ -1,13 +1,16 @@
+import Navbar from "./components/ui/Navbar"
+import HeroSection from "./components/ui/HeroSection"
 
 
 function App() {
   
 
   return (
-    <> <h1 className="text-red-400">
-      Hello
-    </h1>
-          </>
+    
+    <>
+   <Navbar name="Anaafo Spaces"/>
+    <HeroSection/>
+   </> 
   )
 }
 
