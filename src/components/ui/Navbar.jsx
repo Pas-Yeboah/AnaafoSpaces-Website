@@ -1,7 +1,7 @@
 import React from 'react'
 import Button from '../core/Button'
 
-const Navbar = ({name}) => {
+const Navbar = () => {
     const menuItems = [
     {
         id:1,
@@ -26,10 +26,8 @@ const Navbar = ({name}) => {
     ]
   return (
     <nav className='flex items-center justify-between bg-white h-[10vh] w-full px-10 py-1 shadow-sm'>
-        <div className='w-1/4 '>
-           <h1 className='text-amber-700 text-lg font-bold'>
-            {name}
-            </h1> 
+        <div className='w-1/4 flex flex-col justify-center '>
+           <img className='w-28 mt-2 h-24 ' src="/public/AnaafoSL.png" alt=" AnaafoSpaces Logo" />
         </div>
         <div className='w-3/4 flex justify-end items-center gap-10'>
         <div className='flex justify-center items-center gap-3 hover: '>

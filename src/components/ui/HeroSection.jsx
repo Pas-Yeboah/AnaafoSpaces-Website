@@ -8,10 +8,10 @@ const HeroSection = () => {
                 Work. Record. Create. All in One Space.
             </h1>
             <div className='flex justify-center items-center gap-4'>
-                <button className='text-amber-800 bg-amber-200 px-3 font-bold py-2 rounded-sm hover:text-white hover:bg-amber-800'>
+                <button className='text-white bg-black px-3 font-bold py-2 rounded-sm hover:text-black hover:bg-white'>
                 Get Started
                 </button>
-                <button className='text-amber-200 border border-amber-200  font-bold px-3 py-2 rounded-sm hover:bg-amber-200 hover:text-amber-800'>
+                <button className='text-white border border-white font-bold px-3 py-2 rounded-sm hover:bg-black hover:text-white hover:border-black'>
                 Schedule a Tour
                 </button>
             </div>
