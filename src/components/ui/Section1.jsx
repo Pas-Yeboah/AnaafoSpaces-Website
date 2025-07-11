@@ -16,7 +16,7 @@ const Section1 = () => {
                <br /> African youth to turn ideas into opportunity
                 
             </p>
-            <button className=' bg-black text-white px-3 py-1.5 font-bold rounded-sm hover:bg-white hover:text-black hover:border hover:border-black'>
+            <button className=' bg-black text-white px-3 py-1.5 font-bold rounded-sm hover:bg-white hover:cursor-pointer hover:text-black hover:border hover:border-black'>
                 Learn more
             </button>
 
