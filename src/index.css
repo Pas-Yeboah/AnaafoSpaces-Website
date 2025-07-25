@@ -12,3 +12,24 @@ body{
     background-position: center;
     background-repeat: no-repeat;
 }
+.swiper-pagination-bullet{
+    
+    background-color:white!important;
+    opacity: neutral-100 !important;
+    width: 8px !important;
+    height: 8px !important ;
+    margin: 0 6px !important;
+
+}
+.swiper-pagination-bullet-active{
+    background-color: neutral-700 !important;
+    width: 12px !important;
+    height: 12px !important ;
+    margin: 0 6px !important;
+}
+.swiper-button-prev , .swiper-button-next{
+    background-color: neutral-700 !important;
+    width: 15px !important;
+    height: 20px !important;
+    color:black !important;
+}
