@@ -38,13 +38,14 @@ const Programmes = () => {
         <img src="/public/businessmeeting.jpg" alt=""className=' w-full h-full object-cover order-6' />
         <div className=' space-y-10 p-6 order-5'>
             <h1 className='font-bold text-4xl'>
-                FACT FWD Summit at Anaafo Spaces
+                Creative Futures Panels
             </h1>
             <p>
-                A powerful one-day gathering of journalists, lecturers, media minds, 
-                and AI experts—exploring the fight against mis/disinformation.
-                 Hosted at Anaafo Spaces, this summit dives into ethical 
-                storytelling and the future of credible information in a fast-moving digital world.
+                A platform for Ghana’s boldest creative voices.
+                These panels feature artists, designers, filmmakers, and storytellers 
+                sharing their journey, work, and visions for the future. 
+                Anaafo Spaces curates these events to celebrate the intersection 
+                of creativity, culture, and community.
             </p>
             <button className='bg-black px-4  rounded-sm py-2  text-white'>
                 Learn More
@@ -53,13 +54,14 @@ const Programmes = () => {
         <img src="/public/partpeople.jpg" alt="" className=' w-full h-full object-cover order-8'/>
         <div className=' space-y-10 p-6 order-7'>
             <h1 className='font-bold text-4xl'>
-                FACT FWD Summit at Anaafo Spaces
+                Startup Pitch Nights
             </h1>
             <p>
-                A powerful one-day gathering of journalists, lecturers, media minds, 
-                and AI experts—exploring the fight against mis/disinformation.
-                 Hosted at Anaafo Spaces, this summit dives into ethical 
-                storytelling and the future of credible information in a fast-moving digital world.
+               Where ideas meet opportunity.
+                Anaafo Spaces has been the launchpad for some of Ghana’s most promising startups. 
+                These nights bring together innovators, investors, and mentors in a high-energy 
+                setting where startups pitch their ideas for funding, feedback, and collaboration. 
+                It's more than a competition—it's a movement.
             </p>
             <button className='bg-black px-4  rounded-sm py-2  text-white'>
                 Learn More

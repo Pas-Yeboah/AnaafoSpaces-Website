@@ -5,7 +5,7 @@ import Slider from "./components/core/Slider"
 import Spaces from "./components/ui/Spaces"
 import Programmes from "./components/ui/Programmes"
 import './index.css'
-
+import CTA from "./components/ui/CTA"
 
 
 function App() {
@@ -16,10 +16,10 @@ function App() {
     <>
    <Navbar name="AnaafoSpaces"/>
     <HeroSection/>
-    
     <Section1/>
     <Spaces/>
     <Programmes/>
+    <CTA/>
     
    </> 
   )
