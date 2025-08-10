@@ -2,7 +2,7 @@ import React from 'react'
 
 const CTA = () => {
   return (
-    <div  className='flex justify-center bg-black text-white w-full py-50 '>
+    <div  className='flex justify-center items-center bg-black text-white w-full  h-screen '>
         <div className='  m-3 p-5 space-y-8 w-1/2'>
             <h1 className='text-5xl font-bold'>
             Make Anaafo Spaces your Space for life

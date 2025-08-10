@@ -6,6 +6,9 @@ import Spaces from "./components/ui/Spaces"
 import Programmes from "./components/ui/Programmes"
 import './index.css'
 import CTA from "./components/ui/CTA"
+import Testimonial from "./components/ui/Testimonial"
+import { Footer } from "./components/ui/Footer"
+
 
 
 function App() {
@@ -20,6 +23,9 @@ function App() {
     <Spaces/>
     <Programmes/>
     <CTA/>
+    <Testimonial/>
+    <Footer/>
+    
     
    </> 
   )
