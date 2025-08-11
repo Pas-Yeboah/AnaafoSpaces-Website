@@ -20,36 +20,36 @@ const Slider = () => {
         className="mySwiper"
       ><SwiperSlide>
         <div className='w-full h-[72vh] bg-gray-300 rounded-lg'>
-            <img className="object-fit w-full rounded-lg   h-full"src="/public/PeopleInaPodcast.jpg" alt="" />
+            <img className="object-fit w-full rounded-lg   h-full"src="/PeopleInaPodcast.jpg" alt="" />
         </div>
         
       </SwiperSlide>
         <SwiperSlide>
           <div className='w-full h-[72vh] bg-gray-300   rounded-lg'>
-            <img className="object-fit w-full  rounded-lg   h-full"src="/public/image1.jpg" alt="" />
+            <img className="object-fit w-full  rounded-lg   h-full"src="/image1.jpg" alt="" />
         </div>
          
         </SwiperSlide>
         <SwiperSlide>
            <div className='w-full h-[72vh] bg-gray-300 rounded-lg'>
-            <img className="object-fit w-full rounded-lg h-full"src="/public/image2.jpg" alt="" />
+            <img className="object-fit w-full rounded-lg h-full"src="/image2.jpg" alt="" />
         </div>
           
         </SwiperSlide>
         <SwiperSlide>
             <div className='w-full h-[72vh] bg-gray-300 rounded-lg'>
-            <img className="object-fit w-full rounded-lg h-full"src="/public/image3.jpg" alt="" />
+            <img className="object-fit w-full rounded-lg h-full"src="/image3.jpg" alt="" />
         </div>
           
         </SwiperSlide>
         <SwiperSlide>
            <div className='w-full h-[72vh] bg-gray-300 rounded-lg'>
-            <img className="object-fit w-full rounded-lg h-full"src="/public/image4.jpg" alt="" />
+            <img className="object-fit w-full rounded-lg h-full"src="/image4.jpg" alt="" />
         </div>
         </SwiperSlide>
         <SwiperSlide>
           <div className='w-full h-[72vh] bg-gray-300 rounded-lg'>
-            <img className="object-fit w-full rounded-lg h-full"src="/public/image6.jpg" alt="" />
+            <img className="object-fit w-full rounded-lg h-full"src="/image6.jpg" alt="" />
         </div>
         </SwiperSlide>
         

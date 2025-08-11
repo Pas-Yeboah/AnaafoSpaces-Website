@@ -4,7 +4,7 @@ const InfoCard = ({imgSrc , heading, subtext}) => {
   return (
     <div className=' '>
             <div className=''>
-                <img className='rounded-xl' src={imgSrc} alt="" />
+                <img className='rounded-xl' src={imgSrc.replace('/public/', '/')} alt="" />
             </div>
             <div className=' my-15 space-y-4 '>
                 <h1 className='font-bold text-3xl'>

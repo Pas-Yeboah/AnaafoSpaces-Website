@@ -36,6 +36,7 @@ export const Footer = () => {
         
     </div>
     <hr className="border-t-2 border-white w-full my-4"/>
+    
     </div>
     
   )

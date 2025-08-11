@@ -15,10 +15,10 @@ const CTA = () => {
         </button>
         </div>
         <div className='flex justify-center items-center w-1/2'>
-            <img className='w-1/3 rounded-sm' src="/public/empty_A_space.jpg" alt="AnaafoSpace_WorkSpace" />
+            <img className='w-1/3 rounded-sm' src="/empty_A_space.jpg" alt="AnaafoSpace_WorkSpace" />
             <div>
-                <img className='w-2/3 rounded-sm m-8' src="/public/guy_working.jpg" alt="Space In use" />
-                <img className='w-1/2 rounded-sm m-8 ' src="/public/man_working.jpg" alt="Space In use" />
+                <img className='w-2/3 rounded-sm m-8' src="/guy_working.jpg" alt="Space In use" />
+                <img className='w-1/2 rounded-sm m-8 ' src="/man_working.jpg" alt="Space In use" />
             </div>
         </div>
         
