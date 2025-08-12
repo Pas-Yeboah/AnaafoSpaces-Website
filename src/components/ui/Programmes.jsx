@@ -4,7 +4,7 @@ const Programmes = () => {
   return (
     
     <div className='grid grid-cols-4'>
-    <img src="/summit.jpg" alt="" className='w-full h-full object-cover' />
+    <img src="/summit.jpg" alt="" className='w-full h-full object-cover' loading="lazy" />
         <div className=' space-y-10 p-6'>
             <h1 className='font-bold text-4xl '>
                 FACT FWD Summit at Anaafo Spaces
@@ -18,7 +18,7 @@ const Programmes = () => {
                 Learn More
             </button>
         </div>
-    <img className='w-full h-full object-cover'  src="/confernce2.jpg" alt="" />
+    <img className='w-full h-full object-cover'  src="/confernce2.jpg" alt="" loading="lazy" />
         <div className='space-y-10 p-6'>
             <h1 className='font-bold text-4xl'>
                 The Education Innovation Conference
@@ -35,7 +35,7 @@ const Programmes = () => {
             </button>
             
         </div>
-    <img src="/businessmeeting.jpg" alt=""className=' w-full h-full object-cover order-6' />
+    <img src="/businessmeeting.jpg" alt="" className='w-full h-full object-cover order-6' loading="lazy" />
         <div className=' space-y-10 p-6 order-5'>
             <h1 className='font-bold text-4xl'>
                 Creative Futures Panels
@@ -51,7 +51,7 @@ const Programmes = () => {
                 Learn More
             </button>
         </div>
-    <img src="/partpeople.jpg" alt="" className=' w-full h-full object-cover order-8'/>
+    <img src="/partpeople.jpg" alt="" className='w-full h-full object-cover order-8' loading="lazy" />
         <div className=' space-y-10 p-6 order-7'>
             <h1 className='font-bold text-4xl'>
                 Startup Pitch Nights

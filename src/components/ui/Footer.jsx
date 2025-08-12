@@ -4,7 +4,7 @@ export const Footer = () => {
   return (
     <div>
         <div className='bg-black flex justify-between p-50 items-start  text-white min-h-screen'>
-        <img className='w-60  h-60' src="/Aspace_remove_bg.png" alt="ASpace" />
+    <img className='w-60  h-60' src="/Aspace_remove_bg.png" alt="ASpace" loading="lazy" />
         <div className='flex flex-col'>
             <h1 className='font-bold mb-6 '>
                 Navigation
